@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sdispater/clikit/commit/1da34f16c50a2a7d4a22d21250cb6268c7b3eefd",
       "git:hexsha": "1da34f16c50a2a7d4a22d21250cb6268c7b3eefd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/clikit/commit/bd396b6693b2afdd4ea7590f7c57baeefcb80582",
